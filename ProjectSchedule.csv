@@ -1,0 +1,629 @@
+TIME,DAYS,COURSE NO,FACULTY,ROOM
+7:00- 8:40AM,Monday - Wednesday,APT1030,Staff,LAB1
+7:00- 8:40AM,Monday - Wednesday,APT1050,Staff,ICT
+7:00- 8:40AM,Monday - Wednesday,APT3010,Staff,LAB4
+7:00- 8:40AM,Monday - Wednesday,APT3040,Staff,LAB3
+7:00- 8:40AM,Monday - Wednesday,APT3050,Staff,LAB6
+7:00- 8:40AM,Monday - Wednesday,BCM2344,"Okanya, P",SC4
+7:00- 8:40AM,Monday - Wednesday,DST4020,Staff,LAB2
+7:00- 8:40AM,Monday - Wednesday,ENG1106,Kioko A.,SS11
+7:00- 8:40AM,Monday - Wednesday,FIL1010,Kiarie J.,SS5
+7:00- 8:40AM,Monday - Wednesday,HSC4493,"Njoroge, G",SC6
+7:00- 8:40AM,Monday - Wednesday,IST1025,Staff,GLAB
+7:00- 8:40AM,Monday - Wednesday,MTH2215,Staff,LT3
+7:00- 8:40AM,Monday - Wednesday,NSC2215,Githiri J.,B1
+7:00- 8:40AM,Monday - Wednesday,FTE3020,Munyithya,B2
+7:00- 8:40AM,Monday - Wednesday,PAT3372,"Chemonges,",SC5
+7:00- 8:40AM,Monday - Wednesday,SEN4800,Adema V,SC1
+9:00-10:40AM,Monday - Wednesday,APT1040,Staff,LAB2
+9:00-10:40AM,Monday - Wednesday,APT2050,Staff,LAB6
+9:00-10:40AM,Monday - Wednesday,APT3025,Staff,LAB4
+9:00-10:40AM,Monday - Wednesday,BCM1343,"Maina, J",SC5
+9:00-10:40AM,Monday - Wednesday,BCM2345,"Mbatia, B",LT3
+9:00-10:40AM,Monday - Wednesday,BUS4080,Were J,D
+9:00-10:40AM,Monday - Wednesday,CHE1305,"Noah, N",SC1
+9:00-10:40AM,Monday - Wednesday,CJS1101,Otieno E.,SS13
+9:00-10:40AM,Monday - Wednesday,CJS3303,Muchemi J.,SS7
+9:00-10:40AM,Monday - Wednesday,CJS3312,Cooper C.,SS8
+9:00-10:40AM,Monday - Wednesday,DAN3020,"Okello, G",K
+9:00-10:40AM,Monday - Wednesday,DAN4020,"Waititu, H",SLAB
+9:00-10:40AM,Monday - Wednesday,DST4010,Staff,LAB1
+9:00-10:40AM,Monday - Wednesday,ECO1010,Wachana P,B5
+9:00-10:40AM,Monday - Wednesday,ENG1106,"Mbugua, P.",LAB 1
+9:00-10:40AM,Monday - Wednesday,ENG1106,Kioko A.,SS11
+9:00-10:40AM,Monday - Wednesday,ENT1010,Muriu M.,SS4
+9:00-10:40AM,Monday - Wednesday,EPI1000,"Some, E",H
+9:00-10:40AM,Monday - Wednesday,FIL1010,Azenath A.,SS6
+9:00-10:40AM,Monday - Wednesday,FIL1010,Kivuva S.,SS11
+9:00-10:40AM,Monday - Wednesday,FIN3010,Wainaina S,F
+9:00-10:40AM,Monday - Wednesday,FRN1001,Staff,SS10
+9:00-10:40AM,Monday - Wednesday,GRM2000,Omboi B.,SS5
+9:00-10:40AM,Monday - Wednesday,HRT1010,Mulindi,SC4
+9:00-10:40AM,Monday - Wednesday,IRL2010,Agade M.K.,SS12
+9:00-10:40AM,Monday - Wednesday,IRL3005,"Kaburu, M.",SS17
+9:00-10:40AM,Monday - Wednesday,IST1010,Staff,GLAB
+9:00-10:40AM,Monday - Wednesday,IST1025,Staff,LAB3
+9:00-10:40AM,Monday - Wednesday,JRN1100,Staff,B4
+9:00-10:40AM,Monday - Wednesday,JRN3321,Staff,SS9
+9:00-10:40AM,Monday - Wednesday,MKT3010,G. Nduati,B1
+9:00-10:40AM,Monday - Wednesday,MTH1105,Staff,SS19
+9:00-10:40AM,Monday - Wednesday,MTH1109,Staff,LT1
+9:00-10:40AM,Monday - Wednesday,NSC2205,"Nyambati,G",SS18
+9:00-10:40AM,Monday - Wednesday,PHL3307,Mbae,SS14
+9:00-10:40AM,Monday - Wednesday,PHM3402,"Janapati,Y",SC6
+9:00-10:40AM,Monday - Wednesday,PHM3412,"Kimani, L",SC3
+9:00-10:40AM,Monday - Wednesday,PHM4425,Staff,SC2
+9:00-10:40AM,Monday - Wednesday,POL2201,"Njuguna, J",SS3
+9:00-10:40AM,Monday - Wednesday,PSY2183,Njoroge J.,SR5
+9:00-10:40AM,Monday - Wednesday,PSY3141,"Njoroge, M",LT7
+9:00-10:40AM,Monday - Wednesday,SUS1010,Staff,SS15
+11:00-12:40PM,Monday - Wednesday,ACT2010,Mugenyi L,B2
+11:00-12:40PM,Monday - Wednesday,APT2020,Staff,ICT
+11:00-12:40PM,Monday - Wednesday,APT2030,Staff,LAB4
+11:00-12:40PM,Monday - Wednesday,APT3040,Staff,LAB7
+11:00-12:40PM,Monday - Wednesday,APT3060,Staff,LAB3
+11:00-12:40PM,Monday - Wednesday,BCM1343,"Maina, J",SC3
+11:00-12:40PM,Monday - Wednesday,BCM2345,Staff,SC4
+11:00-12:40PM,Monday - Wednesday,BOT3352,Muniafu,B5
+11:00-12:40PM,Monday - Wednesday,BST1010,Staff,L
+11:00-12:40PM,Monday - Wednesday,BST1020,"Njoroge, G",SLAB
+11:00-12:40PM,Monday - Wednesday,BST4060,"Okello, G",G
+11:00-12:40PM,Monday - Wednesday,BUS2010,Staff,SS5
+11:00-12:40PM,Monday - Wednesday,BUS2020,Karimi J,B3
+11:00-12:40PM,Monday - Wednesday,BUS4090,Ndegwa J,B1
+11:00-12:40PM,Monday - Wednesday,COM1500,Jefwa J.,SS3
+11:00-12:40PM,Monday - Wednesday,ECO1010,Nerubucha,LT1
+11:00-12:40PM,Monday - Wednesday,ENG0999,"Ogutu, E.",SS12
+11:00-12:40PM,Monday - Wednesday,ENG1106,Staff,SS14
+11:00-12:40PM,Monday - Wednesday,ENG2206,"Mbugua, P.",SS10
+11:00-12:40PM,Monday - Wednesday,EPI2010,"Kiboi, W",H
+11:00-12:40PM,Monday - Wednesday,EPI4020,Adema V,SC9
+11:00-12:40PM,Monday - Wednesday,FAR3000,Andango E,SS19
+11:00-12:40PM,Monday - Wednesday,GLG3010,Ngui T,SC8
+11:00-12:40PM,Monday - Wednesday,GNS4800,Otieno P.,SS1
+11:00-12:40PM,Monday - Wednesday,GRM2000,G. Nduati,LT2
+11:00-12:40PM,Monday - Wednesday,GRM2000,"Ondiek, C",SS6
+11:00-12:40PM,Monday - Wednesday,IRL2005,"Kaburu, M.",SC2
+11:00-12:40PM,Monday - Wednesday,IRL3010,"Munene, M.",SS4
+11:00-12:40PM,Monday - Wednesday,IRL3021,Fiona N.,SS17
+11:00-12:40PM,Monday - Wednesday,IRL4040,Mwakina R.,LT7
+11:00-12:40PM,Monday - Wednesday,IST1010,Staff,GLAB
+11:00-12:40PM,Monday - Wednesday,IST3020,Staff,LAB1
+11:00-12:40PM,Monday - Wednesday,JRN1109,Staff,B4
+11:00-12:40PM,Monday - Wednesday,MTH1040,Staff,SS13
+11:00-12:40PM,Monday - Wednesday,PHM3404,"Janapati,Y",SC6
+11:00-12:40PM,Monday - Wednesday,PHM4415,"Munyendo,",SC7
+11:00-12:40PM,Monday - Wednesday,PHM5418,"Omolo, C",LT4
+11:00-12:40PM,Monday - Wednesday,PHY1331,"Kahiri, C",SC1
+11:00-12:40PM,Monday - Wednesday,PSY1101,Rono,LT3
+11:00-12:40PM,Monday - Wednesday,PSY1110,Ogunde J.,SS8
+11:00-12:40PM,Monday - Wednesday,PSY3115,"Njoroge, M",SS18
+11:00-12:40PM,Monday - Wednesday,PSY4109,"Waithima,C",SS15
+11:00-12:40PM,Monday - Wednesday,SEN4800,Muchemi J.,SC5
+11:00-12:40PM,Monday - Wednesday,SFE4010,Staff,LAB2
+11:00-12:40PM,Monday - Wednesday,SPN1000,Muasya J.,SS9
+11:00-12:40PM,Monday - Wednesday,SUS1010,Otieno E.,SS7
+11:00-12:40PM,Monday - Wednesday,SWA1000,"Gromov, M.",SS11
+1:20- 3:00PM,Monday - Wednesday,ACT2010,Omboi B.,SC1
+1:20- 3:00PM,Monday - Wednesday,APT2010,Staff,LAB3
+1:20- 3:00PM,Monday - Wednesday,APT2080,Staff,LAB6
+1:20- 3:00PM,Monday - Wednesday,APT3090,Staff,LAB4
+1:20- 3:00PM,Monday - Wednesday,BCM2220,Staff,B1
+1:20- 3:00PM,Monday - Wednesday,BST4040,"Njoroge, G",G
+1:20- 3:00PM,Monday - Wednesday,BUS1010,Ndegwa J,BS1
+1:20- 3:00PM,Monday - Wednesday,BUS4000,Musuva G,SC6
+1:20- 3:00PM,Monday - Wednesday,BUS4070,S.Morangi,B3
+1:20- 3:00PM,Monday - Wednesday,BUS4090,Kaluyu V,LT4
+1:20- 3:00PM,Monday - Wednesday,CHE2308,"Amuhaya, E",LT5
+1:20- 3:00PM,Monday - Wednesday,CJS4140,Cooper C.,SR2
+1:20- 3:00PM,Monday - Wednesday,ECO1020,Ouma Z.,B5
+1:20- 3:00PM,Monday - Wednesday,ECO4030,wambalabaF,B1
+1:20- 3:00PM,Monday - Wednesday,ENG1106,Kioko A.,SS11
+1:20- 3:00PM,Monday - Wednesday,ENG1106,"Mbugua, P.",SS13
+1:20- 3:00PM,Monday - Wednesday,ENG2206,Jefwa J.,SS8
+1:20- 3:00PM,Monday - Wednesday,EPI1010,"Some, E",L
+1:20- 3:00PM,Monday - Wednesday,FIL1010,Ngure B.,SS6
+1:20- 3:00PM,Monday - Wednesday,HIS3005,"Kakai, P.",LT3
+1:20- 3:00PM,Monday - Wednesday,HSC4396,"Ogaro, T D",K
+1:20- 3:00PM,Monday - Wednesday,IBA4020,Ouma J,K
+1:20- 3:00PM,Monday - Wednesday,IRL3003,Agade M.K.,SS4
+1:20- 3:00PM,Monday - Wednesday,IRL4020,Khayundi F,SS3
+1:20- 3:00PM,Monday - Wednesday,IST1010,Staff,GLAB
+1:20- 3:00PM,Monday - Wednesday,IST2010,Staff,LAB1
+1:20- 3:00PM,Monday - Wednesday,JRN3016,Staff,SS9
+1:20- 3:00PM,Monday - Wednesday,LIT2220,"Gromov, M.",SS5
+1:20- 3:00PM,Monday - Wednesday,MGT3010,Ngui T,SC7
+1:20- 3:00PM,Monday - Wednesday,MGT4030,Kihara A,LT1
+1:20- 3:00PM,Monday - Wednesday,MIC2366,"Obila, J",SC2
+1:20- 3:00PM,Monday - Wednesday,MKT3010,Kangu M,SC3
+1:20- 3:00PM,Monday - Wednesday,MKT3020,"Kavoo, M",LAB2
+1:20- 3:00PM,Monday - Wednesday,MTH1109,Staff,SS14
+1:20- 3:00PM,Monday - Wednesday,NET4020,Staff,SLAB
+1:20- 3:00PM,Monday - Wednesday,PHM4405,"Janapati,Y",SC4
+1:20- 3:00PM,Monday - Wednesday,PHT4020,"Musau, A",H
+1:20- 3:00PM,Monday - Wednesday,PSY3110,Rono,SS19
+1:20- 3:00PM,Monday - Wednesday,PSY3143,Njoroge J.,SS18
+1:20- 3:00PM,Monday - Wednesday,PSY3150,Ngure J.,SS15
+1:20- 3:00PM,Monday - Wednesday,SOC2201,"Munyae, M.",SS7
+1:20- 3:00PM,Monday - Wednesday,SOC4025,Odek A.,SS12
+1:20- 3:00PM,Monday - Wednesday,SUS1010,Adema V,SS1
+3:30- 5:10PM,Monday - Wednesday,ACT1010,Mugenyi L,SC1
+3:30- 5:10PM,Monday - Wednesday,ACT4010,Odoyo F,C
+3:30- 5:10PM,Monday - Wednesday,APT1050,"Wamuyu, P",ICT
+3:30- 5:10PM,Monday - Wednesday,APT2055,Staff,LAB2
+3:30- 5:10PM,Monday - Wednesday,APT2080,Staff,LAB3
+3:30- 5:10PM,Monday - Wednesday,APT3080,Staff,LAB4
+3:30- 5:10PM,Monday - Wednesday,BUS2020,Linge T.,SC4
+3:30- 5:10PM,Monday - Wednesday,BUS3010,"Njogu, V",B5
+3:30- 5:10PM,Monday - Wednesday,BUS3030,Staff,B1
+3:30- 5:10PM,Monday - Wednesday,BUS4005,Ouma D,SC4
+3:30- 5:10PM,Monday - Wednesday,CJS4125,Cooper C.,SS8
+3:30- 5:10PM,Monday - Wednesday,DAN3010,"Njoroge, G",K
+3:30- 5:10PM,Monday - Wednesday,ENG1106,Jefwa J.,SS13
+3:30- 5:10PM,Monday - Wednesday,ENV3200,"Nyambati,G",SC6
+3:30- 5:10PM,Monday - Wednesday,FRN1000,Mulwa  H.,SS18
+3:30- 5:10PM,Monday - Wednesday,GRM2000,Kalunda E,SS5
+3:30- 5:10PM,Monday - Wednesday,HSC1330,Staff,N
+3:30- 5:10PM,Monday - Wednesday,IRL3000,Fiona N.,SC3
+3:30- 5:10PM,Monday - Wednesday,IRL3040,"Kaburu, M.",SS14
+3:30- 5:10PM,Monday - Wednesday,IST1010,Staff,GLAB
+3:30- 5:10PM,Monday - Wednesday,JRN3013,Staff,SC2
+3:30- 5:10PM,Monday - Wednesday,JRN4027,Staff,SS9
+3:30- 5:10PM,Monday - Wednesday,MGT4030,S.Morangi,B2
+3:30- 5:10PM,Monday - Wednesday,MKT4010,Kangu M,LT5
+3:30- 5:10PM,Monday - Wednesday,MTH1109,Staff,LT3
+3:30- 5:10PM,Monday - Wednesday,MTH1110,Staff,SC7
+3:30- 5:10PM,Monday - Wednesday,PHM3451,Mungai N,SC4
+3:30- 5:10PM,Monday - Wednesday,PSY3181,Njoroge J.,SS10
+3:30- 5:10PM,Monday - Wednesday,PSY4142,Mohan V.,SS6
+3:30- 5:10PM,Monday - Wednesday,SEN4800,Muchemi J.,SS4
+3:30- 5:10PM,Monday - Wednesday,SFE4030,Staff,SS16
+3:30- 5:10PM,Monday - Wednesday,SOC2201,"Munyae, M.",SS7
+3:30- 5:10PM,Monday - Wednesday,SOC3315,Odek A.,SS19
+3:30- 5:10PM,Monday - Wednesday,SPN1001,Muasya J.,SS3
+3:30- 5:10PM,Monday - Wednesday,ACT1010,Mohamed M.,B4
+3:30- 5:10PM,Monday - Wednesday,ACT4030,Barasa M,SC4
+3:30- 5:10PM,Monday - Wednesday,APT3025,Staff,SS16
+3:30- 5:10PM,Monday - Wednesday,BUS3010,Biko,SS17
+3:30- 5:10PM,Monday - Wednesday,BUS3030,Staff,B3
+3:30- 5:10PM,Monday - Wednesday,BUS4080,Katuse P,LT2
+3:30- 5:10PM,Monday - Wednesday,CHI1001,Ooko. M,SS5
+3:30- 5:10PM,Monday - Wednesday,CSI2020,Staff,SC3
+3:30- 5:10PM,Monday - Wednesday,ECO1020,Nerubucha,LT1
+3:30- 5:10PM,Monday - Wednesday,ECO4050,Ouma J,SS4
+3:30- 5:10PM,Monday - Wednesday,ENG2206,Maina O.,SS14
+3:30- 5:10PM,Monday - Wednesday,FIC4020,Staff,LAB4
+3:30- 5:10PM,Monday - Wednesday,GRM2000,"Obila, J",SC1
+3:30- 5:10PM,Monday - Wednesday,IRL4075,Kabongah G,SC2
+3:30- 5:10PM,Monday - Wednesday,IST1025,Staff,GLAB
+3:30- 5:10PM,Monday - Wednesday,IST2045,Staff,ICT
+3:30- 5:10PM,Monday - Wednesday,IST3050,Staff,LAB6
+3:30- 5:10PM,Monday - Wednesday,IST4070,Staff,LAB1
+3:30- 5:10PM,Monday - Wednesday,JRN2202,Staff,SS11
+3:30- 5:10PM,Monday - Wednesday,JRN3000,Staff,SS12
+3:30- 5:10PM,Monday - Wednesday,MGT3010,S.Morangi,SC7
+3:30- 5:10PM,Monday - Wednesday,MGT4020,C.Getecha,LT5
+3:30- 5:10PM,Monday - Wednesday,MGT4050,Musebe E,SS1
+3:30- 5:10PM,Monday - Wednesday,MKT4020,"Muhonza, P",SS2
+3:30- 5:10PM,Monday - Wednesday,PSY1101,Munywoki V,SS13
+3:30- 5:10PM,Monday - Wednesday,PSY4110,Karega M.,SS8
+7:20- 9:00PM,Monday - Wednesday,APT1050,"Wamuyu, P",ICT
+7:20- 9:00PM,Monday - Wednesday,APT2010,Staff,LAB1
+7:20- 9:00PM,Monday - Wednesday,APT2040,Staff,LAB7
+7:20- 9:00PM,Monday - Wednesday,BUS4000,"Njogu, V",SC1
+7:20- 9:00PM,Monday - Wednesday,BUS4015,"Muhonza, P",C
+7:20- 9:00PM,Monday - Wednesday,CHI1000,Ooko. M,LT7
+7:20- 9:00PM,Monday - Wednesday,CJS3301,"Kirui, G.",SS5
+7:20- 9:00PM,Monday - Wednesday,ENG0999,Staff,SS12
+7:20- 9:00PM,Monday - Wednesday,ENG1106,Staff,SS11
+7:20- 9:00PM,Monday - Wednesday,ENG2206,Kinuthia J,SS13
+7:20- 9:00PM,Monday - Wednesday,ENT4050,A.Adan,B3
+7:20- 9:00PM,Monday - Wednesday,FIC4040,Staff,LAB4
+7:20- 9:00PM,Monday - Wednesday,FRN1000,Mulwa  H.,SS14
+7:20- 9:00PM,Monday - Wednesday,IBA4950,G. Nduati,LT2
+7:20- 9:00PM,Monday - Wednesday,IRL2010,"Maumo, L.",SS4
+7:20- 9:00PM,Monday - Wednesday,IST1020,Staff,GLAB
+7:20- 9:00PM,Monday - Wednesday,PSY2125,"Kihara, M.",SS8
+7:20- 9:00PM,Monday - Wednesday,PSY3115,Ndero P.,SS17
+7:20- 9:00PM,Monday - Wednesday,SEN4800,Mulindi,SS1
+7:20- 9:00PM,Monday - Wednesday,SPN1001,Nyangweso,SS18
+7:20- 9:00PM,Monday - Wednesday,SPN1001,Nyangweso,SS18
+7:00-10:40AM,Monday,BCM1330,"Okanya, P",SC8
+9:00-12:20PM,Monday,CIN3005,"Githinji,K",FLA1
+9:00-12:20PM,Monday,FLA1005,Pambo V.,ANM1
+9:00-12:20PM,Monday,FLA2010,Gitimu S,ANM2
+9:00-12:20PM,Monday,PHM4474,"Terefe, E",LT5
+9:00-12:40PM,Monday,BCM1341,Staff,LT6
+1:30- 4:50PM,Monday,ANM1030,Mandela J,LT7
+1:30- 4:50PM,Monday,ANM4085,Khamala M,LT8
+1:30- 4:50PM,Monday,BCM1320,"Maina, J",SC9
+1:30- 4:50PM,Monday,BCM2250,Staff,SC8
+1:30- 4:50PM,Monday,ENV2001,"Munyendo,",SS17
+1:30- 4:50PM,Monday,FLA1010,"Owuor, B",ANM1
+1:30- 4:50PM,Monday,FLA2015,"Bi, C",ANM2
+1:30- 4:50PM,Monday,PRD4005,Pambo V.,FLA1
+3:30- 6:50PM,Monday,HSC3492,Muniafu,SC5
+3:30- 6:50PM,Monday,PHM5478,Nguta J,LT4
+5:40- 9:00PM,Wednesday,ANM4050,Staff,LT5
+7:00- 8:40AM,Tuesday - Thursday,APP4025,Staff,SLAB
+7:00- 8:40AM,Tuesday - Thursday,APT2010,Staff,LAB3
+7:00- 8:40AM,Tuesday - Thursday,CHI3000,"Mbugua, J.",SR1
+7:00- 8:40AM,Tuesday - Thursday,CSI1060,Staff,LAB2
+7:00- 8:40AM,Tuesday - Thursday,ENG1106,Suleh E.,SS5
+7:00- 8:40AM,Tuesday - Thursday,IST1010,Staff,GLAB
+7:00- 8:40AM,Tuesday - Thursday,IST4035,Staff,ICT
+7:00- 8:40AM,Tuesday - Thursday,IST4078,Staff,SS16
+7:00- 8:40AM,Tuesday - Thursday,SEN4800,Musebe E,LT2
+7:00- 8:40AM,Tuesday - Thursday,SFE4020,Staff,LAB7
+9:00-10:40AM,Tuesday - Thursday,ANM1020,Nyabere E,LAB8
+9:00-10:40AM,Tuesday - Thursday,APT2022,Staff,LAB4
+9:00-10:40AM,Tuesday - Thursday,BCM2140,Muniafu,SC9
+9:00-10:40AM,Tuesday - Thursday,BOT3353,Muniafu,SC3
+9:00-10:40AM,Tuesday - Thursday,BST3020,"Njoroge, G",LAB6
+9:00-10:40AM,Tuesday - Thursday,BUS3020,Musebe E,B3
+9:00-10:40AM,Tuesday - Thursday,BUS4070,Koshal j,B1
+9:00-10:40AM,Tuesday - Thursday,CHE2305,"Muhanji, C",SC5
+9:00-10:40AM,Tuesday - Thursday,CHI1000,"Mbugua, J.",SS9
+9:00-10:40AM,Tuesday - Thursday,CJS1103,Odhiambo T,SS6
+9:00-10:40AM,Tuesday - Thursday,CJS3309,Otieno E.,SS10
+9:00-10:40AM,Tuesday - Thursday,COM1500,"Gromov, M.",SS17
+9:00-10:40AM,Tuesday - Thursday,ECO1020,Wachana P,LT1
+9:00-10:40AM,Tuesday - Thursday,ENG0999,Suleh E.,SS12
+9:00-10:40AM,Tuesday - Thursday,ENG1106,Nyarigoti,SS5
+9:00-10:40AM,Tuesday - Thursday,ENG2206,Kimathi C.,SS13
+9:00-10:40AM,Tuesday - Thursday,EPI3010,Ng'ang'a L,G
+9:00-10:40AM,Tuesday - Thursday,FIL1010,Kiilu D.,SS7
+9:00-10:40AM,Tuesday - Thursday,GLG3020,"Maumo, L.",SS8
+9:00-10:40AM,Tuesday - Thursday,GRM2000,"Maina, J",LT2
+9:00-10:40AM,Tuesday - Thursday,GRM2000,"Njoroge, G",SS1
+9:00-10:40AM,Tuesday - Thursday,HAN1321,"Nyaribo, C",LT3
+9:00-10:40AM,Tuesday - Thursday,HRM4015,Mutisya M.,DKIT
+9:00-10:40AM,Tuesday - Thursday,HSC1394,Ndemo K,L
+9:00-10:40AM,Tuesday - Thursday,IRL2000,"Onyango, M",SS4
+9:00-10:40AM,Tuesday - Thursday,IRL3100,Behr A.,SS14
+9:00-10:40AM,Tuesday - Thursday,IST1020,Staff,GLAB
+9:00-10:40AM,Tuesday - Thursday,IST3015,Mursi J,LAB2
+9:00-10:40AM,Tuesday - Thursday,IST4030,Staff,LAB1
+9:00-10:40AM,Tuesday - Thursday,JRN3015,Staff,SS19
+9:00-10:40AM,Tuesday - Thursday,MIC2365,"Obila, J",B5
+9:00-10:40AM,Tuesday - Thursday,MTH1109,Staff,B2
+9:00-10:40AM,Tuesday - Thursday,PHM3401,"Noah, N",SC4
+9:00-10:40AM,Tuesday - Thursday,PHM4414,"Munyendo,",LT4
+9:00-10:40AM,Tuesday - Thursday,PHM4510,Ndemo K,H
+9:00-10:40AM,Tuesday - Thursday,PHY1332,"Kahiri, C",LT5
+9:00-10:40AM,Tuesday - Thursday,PSY1101,Musau J.,SS11
+9:00-10:40AM,Tuesday - Thursday,PSY4117,"Mutwiri, M",SS18
+9:00-10:40AM,Tuesday - Thursday,SEN4800,Karega M,SS15
+9:00-10:40AM,Tuesday - Thursday,SUS1010,Sikalieh D,SS3
+11:00-12:40PM,Tuesday - Thursday,ACT4070,Kuria J,E
+11:00-12:40PM,Tuesday - Thursday,ACT4110,Omboi B.,F
+11:00-12:40PM,Tuesday - Thursday,APT2060,Staff,LAB4
+11:00-12:40PM,Tuesday - Thursday,APT2090,Staff,LAB1
+11:00-12:40PM,Tuesday - Thursday,BST4020,"Waititu, H",L
+11:00-12:40PM,Tuesday - Thursday,BST4050,"Njoroge, G",G
+11:00-12:40PM,Tuesday - Thursday,BUS2010,Staff,K
+11:00-12:40PM,Tuesday - Thursday,BUS2020,Karimi J,B5
+11:00-12:40PM,Tuesday - Thursday,BUS3010,Biko,BS2
+11:00-12:40PM,Tuesday - Thursday,BUS4000,Akuma S,BS5
+11:00-12:40PM,Tuesday - Thursday,BUS4090,Namada J,B1
+11:00-12:40PM,Tuesday - Thursday,CHE1400,Staff,SS18
+11:00-12:40PM,Tuesday - Thursday,CHE2305,"Muhanji, C",LT4
+11:00-12:40PM,Tuesday - Thursday,CHI1001,"Mbugua, J.",SS12
+11:00-12:40PM,Tuesday - Thursday,CJS2201,Otieno E.,SS5
+11:00-12:40PM,Tuesday - Thursday,ECO1020,Nerubucha,LT1
+11:00-12:40PM,Tuesday - Thursday,ENG2206,Kimathi C.,SS1
+11:00-12:40PM,Tuesday - Thursday,ENT4020,Sikalieh D,SS2
+11:00-12:40PM,Tuesday - Thursday,EPI4010,"Kiboi, W",H
+11:00-12:40PM,Tuesday - Thursday,FIL1010,Mtunda Z.,SS8
+11:00-12:40PM,Tuesday - Thursday,FIN3010,Gatumo F.,LT5
+11:00-12:40PM,Tuesday - Thursday,FRN1000,Wambalaba,SS14
+11:00-12:40PM,Tuesday - Thursday,GRM2000,Mutisya M.,SS10
+11:00-12:40PM,Tuesday - Thursday,HRM4020,Njeru G.,DKIT
+11:00-12:40PM,Tuesday - Thursday,IBA4010,Ngui T,BS1
+11:00-12:40PM,Tuesday - Thursday,IRL3060,Njoroge S.,SS17
+11:00-12:40PM,Tuesday - Thursday,IRL4050,Behr A.,SS6
+11:00-12:40PM,Tuesday - Thursday,IST1020,Staff,GLAB
+11:00-12:40PM,Tuesday - Thursday,IST2045,Staff,LAB3
+11:00-12:40PM,Tuesday - Thursday,IST4075,Staff,LAB7
+11:00-12:40PM,Tuesday - Thursday,JPN1001,"Nakamura,",SS13
+11:00-12:40PM,Tuesday - Thursday,JRN2004,Staff,SC9
+11:00-12:40PM,Tuesday - Thursday,JRN3027,Staff,SS9
+11:00-12:40PM,Tuesday - Thursday,MGT3010,Koshal j,B4
+11:00-12:40PM,Tuesday - Thursday,MIC2260,"Ogutu, J",SS11
+11:00-12:40PM,Tuesday - Thursday,MIC2362,"Ogutu, J",SC7
+11:00-12:40PM,Tuesday - Thursday,MIC2365,"Obila, J",SC8
+11:00-12:40PM,Tuesday - Thursday,MTH1050,Staff,B1
+11:00-12:40PM,Tuesday - Thursday,MTH1105,Staff,SC5
+11:00-12:40PM,Tuesday - Thursday,MTH2215,Staff,LT2
+11:00-12:40PM,Tuesday - Thursday,PHM3401,"Noah, N",SC2
+11:00-12:40PM,Tuesday - Thursday,PHM3471,"Monayo, S",SC1
+11:00-12:40PM,Tuesday - Thursday,PHM3485,"Kimani, L",SC3
+11:00-12:40PM,Tuesday - Thursday,PHM4492,"Ndungu, T.",LT3
+11:00-12:40PM,Tuesday - Thursday,PHY1332,"Kahiri, C",SC4
+11:00-12:40PM,Tuesday - Thursday,PSY2105,"Ndungu, T.",SS15
+11:00-12:40PM,Tuesday - Thursday,SPN1000,Fernandez,SS7
+11:00-12:40PM,Tuesday - Thursday,SEN4800,Karega M,SS19
+1:20- 3:00PM,Tuesday - Thursday,ACT1010,Ng'ang'a L,B4
+1:20- 3:00PM,Tuesday - Thursday,ACT4040,Ogada A.O.,H
+1:20- 3:00PM,Tuesday - Thursday,ACT4130,Lio Sammy,SC8
+1:20- 3:00PM,Tuesday - Thursday,ANM2080,Mwangi C.,SC7
+1:20- 3:00PM,Tuesday - Thursday,APT1030,Staff,LAB3
+1:20- 3:00PM,Tuesday - Thursday,BST4030,Staff,L
+1:20- 3:00PM,Tuesday - Thursday,BUS1010,"Muraguri,C",SS1
+1:20- 3:00PM,Tuesday - Thursday,BUS3010,Akuma S,LT2
+1:20- 3:00PM,Tuesday - Thursday,BUS4020,Ochola P.,SC9
+1:20- 3:00PM,Tuesday - Thursday,CJS4150,Odhiambo T,SS19
+1:20- 3:00PM,Tuesday - Thursday,ENG0999,Suleh E.,SS12
+1:20- 3:00PM,Tuesday - Thursday,ENG1106,Kimathi C.,SS5
+1:20- 3:00PM,Tuesday - Thursday,ENG2206,Nyarigoti,SS3
+1:20- 3:00PM,Tuesday - Thursday,ENV2000,Muniafu,SC6
+1:20- 3:00PM,Tuesday - Thursday,FIC4030,Staff,LAB4
+1:20- 3:00PM,Tuesday - Thursday,FRN1001,Wambalaba,SS6
+1:20- 3:00PM,Tuesday - Thursday,GLG4050,Kihara A,SS13
+1:20- 3:00PM,Tuesday - Thursday,GRM2000,Mutanu L.,B1
+1:20- 3:00PM,Tuesday - Thursday,HRM3040,Mutisya M.,DKIT
+1:20- 3:00PM,Tuesday - Thursday,HSC2391,Ouma J,B5
+1:20- 3:00PM,Tuesday - Thursday,HSC4495,"Omolo, C",K
+1:20- 3:00PM,Tuesday - Thursday,IRL2100,Mahmoud H.,SS4
+1:20- 3:00PM,Tuesday - Thursday,IRL4030,Njoroge S.,SS8
+1:20- 3:00PM,Tuesday - Thursday,IRL4800,Adar K.G.,SS17
+1:20- 3:00PM,Tuesday - Thursday,IST1010,Staff,GLAB
+1:20- 3:00PM,Tuesday - Thursday,IST4020,Staff,LAB7
+1:20- 3:00PM,Tuesday - Thursday,JPN2000,"Nakamura,",SS11
+1:20- 3:00PM,Tuesday - Thursday,MTH1105,Staff,B3
+1:20- 3:00PM,Tuesday - Thursday,MTH2010,Staff,LT1
+1:20- 3:00PM,Tuesday - Thursday,MTH2210,Staff,SS18
+1:20- 3:00PM,Tuesday - Thursday,PHM3481,"Nyamu, D",SC7
+1:20- 3:00PM,Tuesday - Thursday,PHM4406,"Janapati,Y",LT5
+1:20- 3:00PM,Tuesday - Thursday,PHM4451,Staff,SC4
+1:20- 3:00PM,Tuesday - Thursday,PHM5491,"Defersha,A",SC5
+1:20- 3:00PM,Tuesday - Thursday,PSY1101,Musau J.,SC2
+1:20- 3:00PM,Tuesday - Thursday,PSY1105,Mwangi P.,SS7
+1:20- 3:00PM,Tuesday - Thursday,PSY3171,"Ndungu, T.",SS10
+1:20- 3:00PM,Tuesday - Thursday,SPN1001,Muasya J.,SS9
+1:20- 3:00PM,Tuesday - Thursday,SPN3001,Fernandez,SR3
+1:20- 3:00PM,Tuesday - Thursday,SUS1010,"Kimani, L",B2
+1:20- 3:00PM,Tuesday - Thursday,SUS1010,"Nyaribo, C",SS15
+1:20- 3:00PM,Tuesday - Thursday,SUS1010,"Mbugua, J.",SS14
+3:30- 5:10PM,Tuesday - Thursday,APP4035,Staff,LAB7
+3:30- 5:10PM,Tuesday - Thursday,APT1040,Staff,LAB4
+3:30- 5:10PM,Tuesday - Thursday,APT2055,Staff,ICT
+3:30- 5:10PM,Tuesday - Thursday,ARB1000,Mohamed A.,SS5
+3:30- 5:10PM,Tuesday - Thursday,BCM3347,Muthinja J,SC2
+3:30- 5:10PM,Tuesday - Thursday,CHI4000,"Mbugua, J.",SR1
+3:30- 5:10PM,Tuesday - Thursday,CJS2210,Odhiambo T,SS9
+3:30- 5:10PM,Tuesday - Thursday,CJS4136,Sungi P.,SS12
+3:30- 5:10PM,Tuesday - Thursday,ECO4010,Ouma J,K
+3:30- 5:10PM,Tuesday - Thursday,ECO4020,Staff,I
+3:30- 5:10PM,Tuesday - Thursday,ENG2206,Nyarigoti,SS4
+3:30- 5:10PM,Tuesday - Thursday,ENG2207,Nyarigoti,SS19
+3:30- 5:10PM,Tuesday - Thursday,ENV2001,Kiaye A.,B1
+3:30- 5:10PM,Tuesday - Thursday,FIL1010,Ogenga D.,SS13
+3:30- 5:10PM,Tuesday - Thursday,FIN4020,Omboi B.,SS6
+3:30- 5:10PM,Tuesday - Thursday,FIN4040,Lio Sammy,B1
+3:30- 5:10PM,Tuesday - Thursday,FRN1001,Staff,SS10
+3:30- 5:10PM,Tuesday - Thursday,FRN3000,Wambalaba,SR2
+3:30- 5:10PM,Tuesday - Thursday,HRM4030,Njeru G.,
+3:30- 5:10PM,Tuesday - Thursday,IRL4010,Njoroge S.,SS3
+3:30- 5:10PM,Tuesday - Thursday,IRL4075,Kabongah G,LT7
+3:30- 5:10PM,Tuesday - Thursday,IRL4811,Mahmoud H.,SS11
+3:30- 5:10PM,Tuesday - Thursday,IST1020,Staff,GLAB
+3:30- 5:10PM,Tuesday - Thursday,IST2040,Staff,LAB1
+3:30- 5:10PM,Tuesday - Thursday,IST3015,Staff,LAB3
+3:30- 5:10PM,Tuesday - Thursday,JPN1000,"Nakamura,",SS14
+3:30- 5:10PM,Tuesday - Thursday,JRN3015,Staff,SS17
+3:30- 5:10PM,Tuesday - Thursday,MGT3010,Mairura j,SC5
+3:30- 5:10PM,Tuesday - Thursday,MGT3011,Mairura j,B2
+3:30- 5:10PM,Tuesday - Thursday,MKT3010,Kangu M,LT2
+3:30- 5:10PM,Tuesday - Thursday,MTH1110,Staff,SS18
+3:30- 5:10PM,Tuesday - Thursday,NSC2215,Munyithya,SC2
+3:30- 5:10PM,Tuesday - Thursday,PHM4452,Mungai N,SC5
+3:30- 5:10PM,Tuesday - Thursday,PHM5496,"Kimani, L",LT5
+3:30- 5:10PM,Tuesday - Thursday,PSY3135,"Panchani,R",SS8
+3:30- 5:10PM,Tuesday - Thursday,SEN4800,Karimi J,SS1
+3:30- 5:10PM,Tuesday - Thursday,SUS1010,Karega M,SS15
+5:30- 7:10PM,Tuesday - Thursday,ACT2010,Owuor J.,SC7
+5:30- 7:10PM,Tuesday - Thursday,ACT4060,Kuria J,B1
+5:30- 7:10PM,Tuesday - Thursday,APT1030,Staff,LAB1
+5:30- 7:10PM,Tuesday - Thursday,APT3050,Staff,LAB4
+5:30- 7:10PM,Tuesday - Thursday,ARB1000,Mohamed A.,SS11
+5:30- 7:10PM,Tuesday - Thursday,BST4010,"Some, E",L
+5:30- 7:10PM,Tuesday - Thursday,BUS1010,Kihara A,B3
+5:30- 7:10PM,Tuesday - Thursday,BUS4090,"Muraguri,C",B4
+5:30- 7:10PM,Tuesday - Thursday,ECO4040,Staff,
+5:30- 7:10PM,Tuesday - Thursday,ENG1106,Nyamasio E,SS5
+5:30- 7:10PM,Tuesday - Thursday,ENG2206,"Owili, F.",SS12
+5:30- 7:10PM,Tuesday - Thursday,ENV3300,Muniafu,SS15
+5:30- 7:10PM,Tuesday - Thursday,FIN4050,Bwire,LAB2
+5:30- 7:10PM,Tuesday - Thursday,FRN1001,Nginye M.,SS13
+5:30- 7:10PM,Tuesday - Thursday,HRM3015,Mutisya M.,DKIT
+5:30- 7:10PM,Tuesday - Thursday,IRL3000,"Onyango, M",SS4
+5:30- 7:10PM,Tuesday - Thursday,IRL4151,Ndungu P.,SS19
+5:30- 7:10PM,Tuesday - Thursday,IST1010,Staff,GLAB
+5:30- 7:10PM,Tuesday - Thursday,IST4035,Staff,ICT
+5:30- 7:10PM,Tuesday - Thursday,JRN3026,Staff,SS6
+5:30- 7:10PM,Tuesday - Thursday,MKT3010,Njenga K.,LT2
+5:30- 7:10PM,Tuesday - Thursday,MTH1060,Staff,SC2
+5:30- 7:10PM,Tuesday - Thursday,MTH1109,Staff,SC3
+5:30- 7:10PM,Tuesday - Thursday,PHL1104,Mbae,SS9
+5:30- 7:10PM,Tuesday - Thursday,PSY1111,Mwangi P.,LT3
+5:30- 7:10PM,Tuesday - Thursday,PSY3110,Bironga S.,SS14
+5:30- 7:10PM,Tuesday - Thursday,PSY3140,Musau J.,SS8
+5:30- 7:10PM,Tuesday - Thursday,SWE2030,Staff,LAB7
+7:20- 9:00PM,Tuesday - Thursday,ACT4120,Odoyo F,LT2
+7:20- 9:00PM,Tuesday - Thursday,APT1040,Staff,LAB1
+7:20- 9:00PM,Tuesday - Thursday,APT2022,Staff,LAB6
+7:20- 9:00PM,Tuesday - Thursday,BUS2010,Staff,SC1
+7:20- 9:00PM,Tuesday - Thursday,BUS2020,Linge T.,Q
+7:20- 9:00PM,Tuesday - Thursday,BUS3020,Njambi E,SC2
+7:20- 9:00PM,Tuesday - Thursday,COM1500,Nginda R.,SS14
+7:20- 9:00PM,Tuesday - Thursday,ENG1106,"Owili, F.",SS13
+7:20- 9:00PM,Tuesday - Thursday,ENG2206,Maina O.,SS12
+7:20- 9:00PM,Tuesday - Thursday,FIC4050,Staff,LAB4
+7:20- 9:00PM,Tuesday - Thursday,GRM2000,Mulindi,SS6
+7:20- 9:00PM,Tuesday - Thursday,IRL2005,"Maumo, L.",SS4
+7:20- 9:00PM,Tuesday - Thursday,IRL3003,Githua,SS9
+7:20- 9:00PM,Tuesday - Thursday,MKT3020,"Kavoo, M",LAB2
+7:20- 9:00PM,Tuesday - Thursday,MKT4050,Njenga K.,B1
+7:20- 9:00PM,Tuesday - Thursday,MTH2210,Staff,SC3
+7:20- 9:00PM,Tuesday - Thursday,PSY1105,Mwangi P.,SS15
+7:20- 9:00PM,Tuesday - Thursday,PSY3105,Bironga S.,SS5
+7:00-10:30AM,Thursday,PAT3371,"Nzioka, A",SC1
+9:00-12:20PM,Thursday,ANM4092,Khamala M,ANM1
+9:00-12:40PM,Thursday,PHM4475,"Terefe, E",SC6
+1:30- 4:50PM,Thursday,ANM4090,Khamala M,ANM1
+1:30- 4:50PM,Thursday,BCM1341,"Maina, J",SC1
+1:30- 4:50PM,Thursday,ENT1010,Sikalieh D,SC3
+5:40- 9:00PM,Thursday,JRN3004,Staff,B5
+7:00-10:40AM,Wednesday,BCM2110,Staff,
+9:00-12:20PM,Wednesday,ANM4020,Mwangi C.,ANM1
+9:00-12:20PM,Wednesday,CIN2005,"Otieno, S",
+9:00-12:20PM,Wednesday,PHM4484,"Defersha,A",LT5
+1:30- 4:50PM,Wednesday,ANM2090,Munyao I,FLA1
+1:30- 4:50PM,Wednesday,EDT3015,"Otieno, S",ANM2
+1:30- 4:50PM,Wednesday,ENV2001,"Munyendo,",SS17
+3:30- 6:50PM,Wednesday,PHM3411,"Kimani, L",SC5
+7:00-10:30AM,Thursday,PHY2335,"Omar, F",SC1
+9:00-12:20PM,Thursday,ANM2050,"Owuor, B",FLA1
+9:00-12:20PM,Thursday,PRD3005,"Diang'a, R",ANM2
+9:00-12:40PM,Thursday,PHM4487,"Defersha,A",SC6
+1:30- 4:50PM,Thursday,CHE1306,"Noah, N",LT3
+1:30- 4:50PM,Thursday,ENT1010,Ndegwa J,LT4
+1:30- 4:50PM,Thursday,FLA1015,"Diang'a, R",ANM1
+1:30- 4:50PM,Thursday,HAN1322,"Nyaribo, C",SC3
+5:40- 9:00PM,Thursday,SND2015,Mulinya S,SS17
+8:00-11:20AM,Friday,ACT4020,Barasa M,BS1
+8:00-11:20AM,Friday,ANM1010,Mandela J,
+8:00-11:20AM,Friday,ANM4910,"Diang'a, R",H
+8:00-11:20AM,Friday,APT3010,Staff,LAB4
+8:00-11:20AM,Friday,APT3060,Staff,LAB3
+8:00-11:20AM,Friday,APT3065,Staff,B3
+8:00-11:20AM,Friday,APT4900,Staff,B2
+8:00-11:20AM,Friday,APT4910,"Wamuyu, P",
+8:00-11:20AM,Friday,CHE1306,"Noah, N",SC4
+8:00-11:20AM,Friday,CIN4005,"Karugu, M",ANM2
+8:00-11:20AM,Friday,CJS2211,"Kirui, G.",SS1
+8:00-11:20AM,Friday,CMS3700,"Amuhaya, E",SS4
+8:00-11:20AM,Friday,CMS3701,Mwangi P.,B5
+8:00-11:20AM,Friday,CMS3702,Lio Sammy,SC1
+8:00-11:20AM,Friday,CMS3703,Kaluyu V,LT2
+8:00-11:20AM,Friday,CMS3704,"Mbatia, B",SS9
+8:00-11:20AM,Friday,DAN4010,Staff,G
+8:00-11:20AM,Friday,DAN4030,Staff,SS3
+8:00-11:20AM,Friday,DST4030,Staff,LAB7
+8:00-11:20AM,Friday,ENG2206,Obote M.J,SS14
+8:00-11:20AM,Friday,FIL1010,Thuo M.,SS13
+8:00-11:20AM,Friday,FLA1040,"Owuor, B",ANM1
+8:00-11:20AM,Friday,FLA2020,Staff,FLA1
+8:00-11:20AM,Friday,HAN1322,"Nyaribo, C",SC2
+8:00-11:20AM,Friday,HRM3020,Njeru G.,TRES
+8:00-11:20AM,Friday,HRM3045,"Sidi, C",SS5
+8:00-11:20AM,Friday,HRM4910,Mulindi,DKIT
+8:00-11:20AM,Friday,HSC4494,Ng'ang'a L,SC9
+8:00-11:20AM,Friday,IBA4910,G. Nduati,LT1
+8:00-11:20AM,Friday,IRL3005,Katete G.,SS17
+8:00-11:20AM,Friday,IRL4030,"Munyi, E.",SS11
+8:00-11:20AM,Friday,IRL4151,Ndungu P.,LT7
+8:00-11:20AM,Friday,JRN3002,Staff,SS17
+8:00-11:20AM,Friday,JRN4029,Staff,SC3
+8:00-11:20AM,Friday,JRN4030,Staff,SC8
+8:00-11:20AM,Friday,JRN4910,Staff,SR3
+8:00-11:20AM,Friday,MIC2360,"Obila, J",M
+8:00-11:20AM,Friday,MTH1110,Staff,LT4
+8:00-11:20AM,Friday,PDR4910,Staff,L
+8:00-11:20AM,Friday,PHM3472,"Monayo, S",SC5
+8:00-11:20AM,Friday,PHM4481,"Kimani, L",LT5
+8:00-11:20AM,Friday,,"Defersha,A",LT3
+8:00-11:20AM,Friday,PHY2334,Kipyegon K,SC6
+8:00-11:20AM,Friday,PRD4910,"Diang'a, R",
+8:00-11:20AM,Friday,PSY3172,Njoroge J.,SS6
+8:00-11:20AM,Friday,PSY4900,Mohan V.,SR2
+8:00-11:20AM,Friday,SOC2205,Odek A.,SS19
+8:00-11:20AM,Friday,SPN1000,Fernandez,SS12
+8:00-11:20AM,Friday,STA2010,Staff,B1
+8:00-11:20AM,Friday,SWE1020,Staff,LAB1
+8:00- 3:50PM,Friday,IST0999,Staff,GLAB
+1:30- 4:50PM,Friday,CJS4910,Muchemi J.,
+1:30- 4:50PM,Friday,CMS3700,Ochieng R.,SS5
+1:30- 4:50PM,Friday,,"Muraguri,C",SS6
+1:30- 4:50PM,Friday,,Ndegwa J,SS7
+1:30- 4:50PM,Friday,,Njoroge S.,SS11
+1:30- 4:50PM,Friday,,"Ondiek, C",SS1
+1:30- 4:50PM,Friday,IRL4900,Katete G.,SS19
+1:30- 4:50PM,Friday,IRL4910,"Munyi, E.",SS18
+1:30- 4:50PM,Friday,PHY2334,Kipyegon K,SC5
+1:30- 4:50PM,Friday,PSY4910,Staff,SS3
+5:40- 9:00PM,Friday,APP4080,Staff,SLAB
+5:40- 9:00PM,Friday,APT2050,Staff,LAB6
+5:40- 9:00PM,Friday,APT2090,Staff,ICT
+5:40- 9:00PM,Friday,APT3095,Staff,LAB3
+5:40- 9:00PM,Friday,BUS2020,Were J,B5
+5:40- 9:00PM,Friday,BUS4070,Katuse P,LT2
+5:40- 9:00PM,Friday,FIN4010,Mirichii J,G
+5:40- 9:00PM,Friday,FIN4030,Wainaina S,SC4
+5:40- 9:00PM,Friday,IBA4020,O. Sule,L
+5:40- 9:00PM,Friday,IRL3200,Biko,SC3
+5:40- 9:00PM,Friday,IRL4020,Khayundi F,SS17
+5:40- 9:00PM,Friday,IST2040,Staff,GLAB
+5:40- 9:00PM,Friday,IST4072,Staff,LAB1
+5:40- 9:00PM,Friday,MGT4030,Matula P.D,B4
+5:40- 9:00PM,Friday,MTH2215,Staff,LT4
+5:40- 9:00PM,Friday,SEN4800,"Machoka, P",SS1
+5:40- 9:00PM,Friday,SND2010,Staff,ANM1
+5:40- 9:00PM,Friday,STA2040,Staff,B2
+5:40- 9:00PM,Friday,SUS1010,"Sikolia, G",SC6
+9:00-12:20PM,Saturday,ACT3010,Gitahi J,LAB3
+9:00-12:20PM,Saturday,APT2040,Staff,LAB7
+9:00-12:20PM,Saturday,ARB1001,Mohamed A.,SS1
+9:00-12:20PM,Saturday,BUS1010,Mwai R,
+9:00-12:20PM,Saturday,CMS3700,Mohamed H.,SS11
+9:00-12:20PM,Saturday,ECO1010,Ouma Z.,SC2
+9:00-12:20PM,Saturday,ENG1106,Mburu M.,SS15
+9:00-12:20PM,Saturday,ENT1010,Kamuri S.,B1
+9:00-12:20PM,Saturday,ENV4200,Kiaye A.,SS18
+9:00-12:20PM,Saturday,FIL1010,Njagi P.,SS5
+9:00-12:20PM,Saturday,FRN1000,Nginye M.,SS12
+9:00-12:20PM,Saturday,HRM4900,Mulindi,DKIT
+9:00-12:20PM,Saturday,HRT2010,"Sidi, C",TKIT
+9:00-12:20PM,Saturday,IBA4950,Kaluyu V,B2
+9:00-12:20PM,Saturday,IRL2000,Macharia H,SS8
+9:00-12:20PM,Saturday,IRL3060,Mwakina R.,LT4
+9:00-12:20PM,Saturday,IRL3110,Biko,SS3
+9:00-12:20PM,Saturday,IRL4900,Adar K.G.,SC1
+9:00-12:20PM,Saturday,IST3005,Staff,SS16
+9:00-12:20PM,Saturday,IST4060,Staff,LAB1
+9:00-12:20PM,Saturday,MGT4010,"Oluoch, F",SC3
+9:00-12:20PM,Saturday,MGT4040,Staff,B4
+9:00-12:20PM,Saturday,MKT4030,"Maisori, B",SC4
+9:00-12:20PM,Saturday,MTH1109,Staff,LT1
+9:00-12:20PM,Saturday,PSY4105,"Panchani,R",SS9
+9:00-12:20PM,Saturday,SEN4800,Njeru G.,SC5
+9:00-12:20PM,Saturday,SPN1000,Nyangweso,SS14
+9:00-12:20PM,Saturday,SUS1010,"Defersha,A",SS17
+9:00- 4:50PM,Saturday,IST0999,Staff,GLAB
+1:30- 4:50PM,Saturday,APT2020,Staff,LAB1
+1:30- 4:50PM,Saturday,APT2060,Staff,ICT
+1:30- 4:50PM,Saturday,APT3080,Staff,LAB6
+1:30- 4:50PM,Saturday,BUS4010,Thiru D,SC4
+1:30- 4:50PM,Saturday,BUS4030,"Mbugua, L",LT1
+1:30- 4:50PM,Saturday,CMS3700,Mohamed H.,SS1
+1:30- 4:50PM,Saturday,ENG2206,Obote M.J,SS11
+1:30- 4:50PM,Saturday,IRL3021,Orwa M.,SC1
+1:30- 4:50PM,Saturday,JRN2107,Staff,SC8
+1:30- 4:50PM,Saturday,MGT4050,"Oluoch, F",B2
+1:30- 4:50PM,Saturday,PHM5498,"Omolo, C",
+1:30- 4:50PM,Saturday,PHM5499,"Defersha,A",
+1:30- 4:50PM,Saturday,PHM5500,"Terefe, E",
+1:30- 4:50PM,Saturday,PHM5501,"Amuhaya, E",
+1:30- 4:50PM,Saturday,PHM5502,"Mbatia, B",
+1:30- 4:50PM,Saturday,PHM5503,"Kimani, L",
+1:30- 4:50PM,Saturday,PHM5504,"Maina, J",
+1:30- 4:50PM,Saturday,PHM5505,"Noah, N",
+1:30- 4:50PM,Saturday,PHM5506,Muniafu,
+1:30- 4:50PM,Saturday,PHM5507,"Obila, J",
+1:30- 4:50PM,Saturday,PHM5508,"Nyaribo, C",
+1:30- 4:50PM,Saturday,PHM5509,"Munyendo,",
+1:30- 4:50PM,Saturday,PHM5510,"Kahiri, C",
+1:30- 4:50PM,Saturday,PHM5511,"Janapati,Y",
+1:30- 4:50PM,Saturday,POL2201,Ndungu P.,SS19
+9:00-12:20PM,Saturday,IBA4010,"Maumo, L.",B2
